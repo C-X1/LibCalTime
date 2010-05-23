@@ -678,7 +678,7 @@ public: //Member Functions
 
 
 
-		stream<<endl<<format<<endl;
+		stream<<format;
 		return stream;
 	}
 
